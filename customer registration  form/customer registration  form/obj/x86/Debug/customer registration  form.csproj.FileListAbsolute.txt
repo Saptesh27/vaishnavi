@@ -1,0 +1,12 @@
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.Form1.resources
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.Properties.Resources.resources
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer registration  form.csproj.GenerateResource.Cache
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\bin\Debug\customer registration  form.exe
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\bin\Debug\customer registration  form.pdb
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer registration  form.exe
+c:\users\imrd\documents\visual studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer registration  form.pdb
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer registration  form.csprojResolveAssemblyReference.cache
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.login.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.buyproduct.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.product.resources
+C:\Users\IMRD\Documents\Visual Studio 2010\Projects\customer registration  form\customer registration  form\obj\x86\Debug\customer_registration__form.Home.resources
